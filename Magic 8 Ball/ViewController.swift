@@ -3,8 +3,7 @@
 //  Magic 8 Ball
 //
 //  Created by Andrew Enriquez on 7/12/18.
-//  Copyright © 2018 Andrew Enriquez. All rights reserved.
-//
+
 
 import UIKit
 
